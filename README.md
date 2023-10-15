@@ -1,12 +1,12 @@
 # FlappyBirdGame
 
-Are you ready for a challenge?
+# Are you ready for a challenge?
 
-Flappy Bird is a simple yet addictive game where you control a bird who must fly between sets of pipes. It's easy to learn but difficult to master, and it's guaranteed to get your heart racing.
+# Flappy Bird is a simple yet addictive game where you control a bird who must fly between sets of pipes. It's easy to learn but difficult to master, and it's guaranteed to get your heart racing.
 
-To play:
+# To play:
 
-Tap the screen to make the bird fly.
+# Tap the screen to make the bird fly.
 Avoid the pipes!
 See how far you can go!
 
